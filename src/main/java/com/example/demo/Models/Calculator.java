@@ -1,12 +1,12 @@
 package com.example.demo.Models;
-
+//Change
 public class Calculator {
     private double leftOperand;
     private double rightOperand;
     private double middleOperand; //NEW
     private String operator;
     boolean triple;
-
+//Change
     public Calculator(double leftOperand, double rightOperand, String operator) {
         this.leftOperand = leftOperand;
         this.rightOperand = rightOperand;
